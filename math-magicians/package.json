@@ -17,12 +17,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-math-magicians",
-      "react-math-magicians/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",
