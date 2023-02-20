@@ -19,8 +19,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-math-magicians",
+      "react-math-magicians/jest"
     ]
   },
   "browserslist": {
