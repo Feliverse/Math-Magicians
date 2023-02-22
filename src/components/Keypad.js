@@ -5,7 +5,7 @@ const Buttons = () => (
     <button type="button" className="btn">AC</button>
     <button type="button" className="btn">+/-</button>
     <button type="button" className="btn">%</button>
-    <button type="button" className="btn orange">/</button>
+    <button type="button" className="btn orange">÷</button>
     <button type="button" className="btn">7</button>
     <button type="button" className="btn">8</button>
     <button type="button" className="btn">9</button>
@@ -18,7 +18,7 @@ const Buttons = () => (
     <button type="button" className="btn">2</button>
     <button type="button" className="btn">3</button>
     <button type="button" className="btn orange">+</button>
-    <button type="button" className="btn  double">0</button>
+    <button type="button" className="btn double">0</button>
     <button type="button" className="btn">.</button>
     <button type="button" className="btn orange">=</button>
   </div>
