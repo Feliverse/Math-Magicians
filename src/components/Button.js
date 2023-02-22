@@ -18,8 +18,8 @@ const Buttons = () => (
     <button type="button" className="btn">2</button>
     <button type="button" className="btn">3</button>
     <button type="button" className="btn orange">+</button>
-    <button type="button" className="btn">0</button>
-    <button type="button" className="btn double">.</button>
+    <button type="button" className="btn  double">0</button>
+    <button type="button" className="btn">.</button>
     <button type="button" className="btn orange">=</button>
   </div>
 );

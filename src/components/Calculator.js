@@ -3,10 +3,10 @@ import Display from './Display';
 import Buttons from './Button';
 
 const Calculator = () => (
-  <main className="calculator-container">
+  <section className="calculator-container">
     <Display />
     <Buttons />
-  </main>
+  </section>
 );
 
 export default Calculator;
