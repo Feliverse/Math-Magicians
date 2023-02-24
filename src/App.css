@@ -4,6 +4,8 @@
   justify-content: center;
 }
 
+/* component: Display */
+
 .calculator-screen {
   width: 100%;
   display: flex;
@@ -14,8 +16,12 @@
 .calculator-display {
   color: white;
   font-size: 1.5em;
-  padding: 0.5em;
+  padding: 0.7em;
+  font-weight: 400;
+  font-family: 'Times New Roman', Times, serif;
 }
+
+/* component: Button */
 
 .calculator-keypad {
   display: grid;
