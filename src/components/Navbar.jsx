@@ -6,9 +6,11 @@ const links = [
   { path: 'calculator', text: 'Calculator' },
   { path: 'quote', text: 'Quote' },
 ];
+
 const Navbar = () => (
   <nav className="navbar">
-    <ul>
+    <h1>Math Magicians</h1>
+    <ul className="navlinks">
       {links.map((link) => (
         <li key={link.text}>
           <NavLink to={link.path}>
