@@ -1,7 +1,8 @@
 .calculator-container {
-  width: 100%;
   display: grid;
   justify-content: center;
+  box-shadow: 0 0 1em 0.05em #53a15d;
+  border-radius: 0.5rem 0.5rem 0 0;
 }
 
 /* component: Display */
@@ -10,7 +11,8 @@
   width: 100%;
   display: flex;
   justify-content: flex-end;
-  background-color: rgb(86, 85, 85);
+  background-color: rgb(90, 99, 94);
+  border-radius: 0.5rem 0.5rem 0 0;
 }
 
 .calculator-display {
