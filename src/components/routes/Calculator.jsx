@@ -3,7 +3,7 @@ import Calculator from '../Calculator';
 
 const CalculatorPage = () => (
   <section className="calculator">
-    <h3>Lets do some math!</h3>
+    <h2>Lets do some math!</h2>
     <Calculator />
   </section>
 );
