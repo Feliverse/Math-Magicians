@@ -4,7 +4,7 @@
   justify-content: space-between;
   align-items: center;
   height: 80px;
-background-color: #f8f5f1;
+  background-color: #f8f5f1;
 }
 
 .navlinks {
@@ -26,7 +26,7 @@ h1 {
   font-size: 200%;
   background: radial-gradient(#ffa600, orange, yellow);
   -webkit-background-clip: text;
-  color: transparent;  
+  color: transparent;
 }
 
 /* Active route */
