@@ -4,6 +4,7 @@
   justify-content: space-between;
   align-items: center;
   height: 80px;
+  background-color: #f8f5f1;
 }
 
 .navlinks {
@@ -23,9 +24,15 @@ a {
 
 h1 {
   font-size: 200%;
+  background: radial-gradient(#ffa600, orange, yellow);
+  -webkit-background-clip: text;
+  color: transparent;
 }
 
 /* Active route */
 .active {
-  color: #8a4baf;
+  color: #22b436;
+  text-decoration: underline;
+  text-shadow: #22b4357a 0 0 16px;
+  font-weight: bold;
 }
