@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Home component 1`] = `
+<DocumentFragment>
+  <section
+    class="home"
+  >
+    <h2>
+      Welcome to our page!
+    </h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    </p>
+    <p>
+      Nam a dui lorem. Sed at odio velit. Aenean magna sem, semper quis porta nec, tincidunt.
+    </p>
+  </section>
+</DocumentFragment>
+`;
