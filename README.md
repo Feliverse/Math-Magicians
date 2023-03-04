@@ -107,7 +107,7 @@ React
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[comming soon](https://feliverse.github.io/) 
+[See live](https://math-magicians-by-feliverse.onrender.com) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
